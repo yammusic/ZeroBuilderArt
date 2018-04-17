@@ -1,7 +1,7 @@
 {
   "name": "yammusic/zero-builder-art",
   "description": "ZeroBuilderArt is a Modular PHP Framework based on Silex 2 and Components from Symfony 3 to develop powerful Web Apps.",
-  "version": "1.0.1",
+  "version": "v1.0.1",
   "keywords": ["framework", "modular", "web apps"],
   "license": "GPL-3.0",
   "authors": [
