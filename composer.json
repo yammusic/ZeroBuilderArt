@@ -1,5 +1,5 @@
 {
-  "name": "hackett-yam/zero-builder-art",
+  "name": "yammusic/zero-builder-art",
   "description": "ZeroBuilderArt is a Modular PHP Framework based on Silex 2 and Components from Symfony 3 to develop powerful Web Apps.",
   "version": "dev-master",
   "keywords": ["framework", "modular", "web apps"],
